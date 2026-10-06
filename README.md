@@ -343,5 +343,5 @@ Eres libre de usar, modificar y redistribuir este software siempre que conserves
 
 <div align="center">
 Si este proyecto te sirvió, dale una ⭐ al repositorio.
-Hecho con ☕ y física en Puebla, México.
+Hecho con amor y física en Puebla, México.
 </div>

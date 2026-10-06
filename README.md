@@ -10,6 +10,8 @@ Validación cinemática con datos reales del CMS Open Data y simulación Monte C
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MPI](https://img.shields.io/badge/MPI-OpenMPI-EE4C2C)](https://www.open-mpi.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2B-0078D6)](https://www.microsoft.com/windows)
+[![Website](https://img.shields.io/badge/Sitio_Web-SIMEX--RACSO.liminalcoded.com-7a1f1f?style=for-the-badge)](https://simex-racso.liminalcoded.com/)
+
 
 **Autor:** Oscar Pablo Morales Zuñiga  
 **Institución:** BUAP — FCFM / UVEG — Ingeniería en Sistemas Computacionales  

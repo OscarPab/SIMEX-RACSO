@@ -1,0 +1,41 @@
+# PyInstaller
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+
+# Salidas del instalador
+installer_output/
+*.exe
+
+# Binarios y artefactos generados
+cern_cache.dat
+histograma_colision.csv
+estadisticas_colision.csv
+animacion_eventos.csv
+simulacion_eventos.csv
+Documento_Evaluacion_Cluster.pdf
+mc_core
+colision_core
+anim_core
+sim_core
+mc_core.cpp
+colision_core.cpp
+anim_core.cpp
+sim_core.cpp
+
+# Datos pesados del CMS (14 MB) — se suben a Releases, no al repo
+datos_cern.csv
+otros/datos_cern.csv
+
+# VS Code / editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
